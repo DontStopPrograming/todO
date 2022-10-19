@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  padding: 10px;
+  margin: 10px;
+  width: 50%;
+  border: 1px solid black;
+  font-size: larger;
+  
+}
+
+.add-btn {
+  float: right;
+  background-color: red;
+  color: #ffff;
+}
+
